@@ -1,0 +1,172 @@
+st log,saf,2
+cause private hospital doctor,severe trauma,2
+cause private hospital doctor,government public hospit,2
+severe trauma,government public hospit,2
+centr,ot nurs,2
+coach,indonesia,2
+coach,singapor,2
+indonesia,singapor,2
+indonesia,brunei laos cambodia,2
+indonesia,png,2
+indonesia,vietnam,2
+indonesia,thailand,2
+indonesia,malaysia,2
+singapor,taiwan,4
+singapor,data,2
+singapor,communist,2
+singapor,china expert,2
+singapor,data militari,2
+singapor,wanna,2
+singapor,mynah,2
+singapor,yishun,2
+singapor,npark,2
+singapor,lee hl,2
+singapor,US,4
+singapor,barack obama,2
+singapor,michelle obama,2
+singapor,glad,2
+singapor,raffles hospit,2
+singapor,the ministry of health’s emergency care collabor,2
+singapor,raffleshospit,4
+singapor,the national trauma committe,2
+singapor,raffleshospital’s accident & emerg,2
+singapor,makoto shinkai,2
+singapor,malaysia,2
+singapor,singapor,2
+singapor,israel,4
+singapor,abraham issac,2
+singapor,divine fac,2
+singapor,jewish,2
+yishun,northpoint c,2
+yishun,mynah,2
+yishun,npark,2
+US,huawei,2
+US,donald trump & china,2
+US,xi jinp,2
+US,lee hl,2
+US,barack obama,2
+US,michelle obama,2
+US,glad,2
+huawei,mandai est,2
+huawei,aruvin nathan,2
+the national anthem,majulah singapura,2
+american,american charity fund,2
+american,havoc,2
+american,interest,2
+american,korea & japan have to listen,2
+american,phua chu kang,2
+american,british,2
+american charity fund,havoc,2
+american charity fund,interest,2
+american charity fund,korea & japan have to listen,2
+havoc,interest,2
+havoc,korea & japan have to listen,2
+interest,korea & japan have to listen,2
+gleneagl,nuh,2
+lta,sydney,2
+lta,ica,8
+lta,ST,4
+lta,lta,2
+lta,pmd,2
+taiwan,data,4
+taiwan,communist,4
+taiwan,china expert,4
+taiwan,data militari,4
+taiwan,taiwan,2
+data,communist,2
+data,china expert,2
+data,data militari,2
+communist,china expert,2
+communist,data militari,2
+china expert,data militari,2
+mrt,hdb,2
+ipman,jacki,2
+bonito,st premium,2
+a&e,sgh,2
+phua chu kang,british,2
+ferrari,bugi,2
+brunei laos cambodia,png,2
+brunei laos cambodia,vietnam,2
+brunei laos cambodia,thailand,2
+brunei laos cambodia,malaysia,2
+png,vietnam,2
+png,thailand,2
+png,malaysia,2
+vietnam,thailand,2
+vietnam,malaysia,2
+thailand,malaysia,2
+gov,GE,2
+Ya,EQ,2
+gurkha,pmd,2
+pmd,road safety park,2
+pmd,pab,2
+tua,malaysian,2
+changi,santa,2
+stanchart marathon,changi coast road,2
+grab food pmd,the pioneer park,2
+japanes,pm lee,4
+japanes,lexu,4
+japanes,japanes,8
+japanes,japan,4
+japanes,MD,2
+pm lee,lexu,2
+pm lee,japan,2
+pm lee,blessed new,2
+pm lee,merri,2
+lexu,japan,2
+spca,av,2
+accid,mount elizabeth hospit,2
+kate spad,frozen,2
+road safety park,pab,2
+merri,prime,2
+merri,churchchristmas ev,2
+soccer,SG,2
+SG,zachari,2
+ban,motorbik,2
+ban,ebik,2
+ban,bike,2
+motorbik,ebik,2
+motorbik,bike,2
+ebik,bike,2
+transcab,prc,2
+transcab,cnm,2
+prc,cnm,2
+ica,ST,4
+ica,ica,2
+wah,expir,2
+plaza,mecca,2
+mynah,npark,2
+donald trump & china,xi jinp,2
+prime,churchchristmas ev,2
+prime,impress,2
+lee hl,barack obama,2
+lee hl,michelle obama,2
+lee hl,glad,2
+barack obama,michelle obama,2
+barack obama,glad,2
+michelle obama,glad,2
+raffles hospit,the ministry of health’s emergency care collabor,2
+raffles hospit,raffleshospit,4
+raffles hospit,the national trauma committe,2
+raffles hospit,raffleshospital’s accident & emerg,2
+the ministry of health’s emergency care collabor,raffleshospit,4
+the ministry of health’s emergency care collabor,the national trauma committe,2
+the ministry of health’s emergency care collabor,raffleshospital’s accident & emerg,2
+raffleshospit,the national trauma committe,4
+raffleshospit,raffleshospit,2
+raffleshospit,raffleshospital’s accident & emerg,4
+the national trauma committe,raffleshospital’s accident & emerg,2
+puthaandu,tamil,2
+hahahaha,feng,2
+wish a,merry xma,2
+singaporean,standard chart,2
+singaporean,govt,2
+philippin,chines,2
+macdonald,macdonald,2
+israel,israel,2
+israel,abraham issac,4
+israel,divine fac,4
+israel,jewish,4
+abraham issac,divine fac,2
+abraham issac,jewish,2
+divine fac,jewish,2

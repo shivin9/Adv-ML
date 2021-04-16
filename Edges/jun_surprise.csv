@@ -1,0 +1,74 @@
+cdc,CB,2
+asian,mrt,2
+asian,malay,2
+asian,singaporean,2
+mrt,malay,2
+mrt,singaporean,2
+malay,singaporean,2
+singaporean,malaysia,8
+singaporean,kuantan,2
+singaporean,singapor,4
+singaporean,pm lee,4
+singaporean,singaporean,2
+pm lee had,moh,2
+pm lee had,govtech,2
+pm lee had,data - collabor,2
+pm lee had,who,2
+pm lee had,goarn,2
+pm lee had,global outbreak alert,2
+pm lee had,response network,2
+moh,govtech,2
+moh,data - collabor,2
+moh,who,2
+moh,goarn,2
+moh,global outbreak alert,2
+moh,response network,2
+govtech,data - collabor,2
+govtech,who,2
+govtech,goarn,2
+govtech,global outbreak alert,2
+govtech,response network,2
+data - collabor,who,2
+data - collabor,goarn,2
+data - collabor,global outbreak alert,2
+data - collabor,response network,2
+who,goarn,2
+who,global outbreak alert,2
+who,response network,2
+who,pm lee,2
+goarn,global outbreak alert,2
+goarn,response network,2
+global outbreak alert,response network,2
+muslim,terawih,2
+muslim,masyaallah,2
+terawih,masyaallah,2
+singapor,singapor,10
+singapor,lee hsien loong,4
+singapor,ntuc,4
+singapor,malaysia,8
+singapor,kuantan,2
+singapor,lee,10
+singapor,taiwan,24
+singapor,hau,6
+singapor,taiwanes,12
+pm lee,tamil,4
+pm lee,india,2
+pm lee,lki,2
+tamil,india,4
+tamil,lki,4
+tamil,tamil,2
+india,lki,2
+mr lee,unit,2
+lee hsien loong,ntuc,2
+pm lee may,singapore tak,2
+ada,malaysia,6
+malaysia,malaysia,18
+malaysia,kuantan,8
+lee,taiwan,8
+lee,hau,2
+lee,taiwanes,4
+taiwan,taiwan,12
+taiwan,hau,8
+taiwan,taiwanes,16
+hau,taiwanes,4
+taiwanes,taiwanes,2
